@@ -1,0 +1,58 @@
+body
+{
+    font-family: "Duru Sans", Arial, Courier;
+    text-align: center;
+    color: black;
+    background-color: blue;
+}
+nav
+{
+    text-align:center;
+    font-size: 140%
+    font-family: "Times New Roman", monospace, sans-serif;
+}
+}
+h1
+{
+    font-family: "Times New Roman", monospace, sans-serif;
+    font-size: 180%;
+    color: black;
+}
+h2
+{
+    font-family: "Times New Roman", monospace, sans-serif;
+    font-size: 160%;
+    color: black;
+}
+h3
+{
+    font-family: "Times New Roman", monospace, sans-serif;
+    font-size: 130%;
+    color: black;
+}
+p
+{
+    font-family: "Times New Roman", monospace, sans-serif;
+    color: black;
+}
+ul
+{
+    font-family: "Times New Roman", monospace, sans-serif;
+    color: black;
+}
+li
+{
+    font-family: "Times New Roman", monospace, sans-serif;
+    text-align: center;
+    color: black;
+}
+img
+{
+     width: 500px;
+     height: 500px;
+}
+iframe
+{
+    width: 400px;
+    height: 300px;
+}
