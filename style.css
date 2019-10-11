@@ -38,6 +38,7 @@ p
 ul
 {
     font-family: "Times New Roman", monospace, sans-serif;
+    text-align: center;
     color: black;
 }
 li
