@@ -1,7 +1,7 @@
 body
 {
     font-family: "Duru Sans", Arial, Courier;
-    text-align: center;
+    text-align: horizontal;
     color: black;
     background-color: blue;
 }
