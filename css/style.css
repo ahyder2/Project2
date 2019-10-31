@@ -28,7 +28,7 @@ nav li
 }
 nav li a
 {
-    display: block;
+    display: inline-block;
     font-style: "Apple Chancery", cursive;
     color: white;
     padding: 15px 30px;
