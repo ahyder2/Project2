@@ -1,54 +1,60 @@
 body
 {
-    font-family: "Duru Sans", Arial, Courier;
+    background-color: #8585E0;
     text-align: center;
-    color: black;
-    background-color: blue;
+    font-family: Optima, sans-serif;
+    font-size: 150%
 }
 nav
 {
-    text-align:center;
-    font-size: 140%
-    font-family: "Times New Roman", monospace, sans-serif;
+    text-align: center;
+    display: inline;
 }
+nav ul
+{
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    background color: #4D5093;
+    overflow: hidden;
 }
+nav li
+{
+    border-right: white solid 1px;
+    border-left: white solid 1px;
+    display: inline;
+
+}
+nav li a
+{
+    display: inline-block;
+    font-style: "Apple Chancery", cursive;
+    color: white;
+    font-size: 150%;
+    border-radius: 2px;
+}
+nav li a:hover
+{
+    background-color: #272C8C;
+}
+/*
 h1
 {
-    font-family: "Times New Roman", monospace, sans-serif;
-    font-size: 180%;
-    color: black;
 }
 h2
 {
-    font-family: "Times New Roman", monospace, sans-serif;
-    font-size: 160%;
-    color: black;
 }
 h3
 {
-    font-family: "Times New Roman", monospace, sans-serif;
-    font-size: 130%;
-    color: black;
 }
 p
 {
-    font-family: "Times New Roman", monospace, sans-serif;
-    color: black;
 }
-ul
-{
-    font-family: "Times New Roman", monospace, sans-serif;
-    color: black;
-}
-li
-{
-    font-family: "Times New Roman", monospace, sans-serif;
-    color: black;
-}
+*/
 img
 {
-     width: 500px;
-     height: 500px;
+    width: 500px;
+    height: 500px;
 }
 iframe
 {
