@@ -15,6 +15,7 @@ nav ul
     list-style-type: none;
     margin: 0 auto;
     padding: 0;
+    border-radius: 2px;
     background color: #4D5093;
     overflow: hidden;
 }
@@ -31,7 +32,6 @@ nav li a
     font-style: "Apple Chancery", cursive;
     color: white;
     font-size: 150%;
-    border-radius: 2px;
 }
 nav li a:hover
 {
