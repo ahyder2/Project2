@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Yeon+Sung&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light=swap');
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
 body
 {
     background-color: #8585E0;
     text-align: center;
-    font-family: 'Optima', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 150%;
     margin-left: auto;
     margin-right: auto;
@@ -41,7 +42,7 @@ nav li
 nav li a
 {
     display: inline-block;
-    font-family: 'Apple Chancery', cursive;
+    font-family: 'Yeon Sung', cursive;
     color: white;
     font-size: 110%;
     padding: 15px 30px;
@@ -70,13 +71,19 @@ h2.navtitle
 }
 h1.indextitle
 {
-    font-family: 'Luminari', fantasy;
-    font-size: 200%
+    font-family: 'Lobster', cursive;
+    font-size: 200%;
+}
+h1.esportstitle
+{
+    font-family: 'Lobster', cursive;
+    font-size: 250%;
+    font-style: italic;
 }
 h2.about
 {
     font-family: 'Shadows Into Light', cursive;
-    font-size: 200%
+    font-size: 200%;
     color: white;
     text-align: center;
     background-color: #000464;
@@ -87,7 +94,7 @@ h2.about
 h3.owl
 {
     font-family: 'Shadows Into Light', cursive;
-    font-size: 80%
+    font-size: 80%;
     color: white;
     text-align: center;
     background-color: #000464;
