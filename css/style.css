@@ -162,4 +162,5 @@ iframe.video
 ul.list
 {
     width: 5%;
+    margin: auto;
 }
