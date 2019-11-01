@@ -48,3 +48,7 @@ nav li a:hover
 {
     background-color: #272C8C;
 }
+nav li a.active
+{
+    background-color: #272C8C;
+}
