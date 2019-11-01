@@ -97,6 +97,15 @@ h2.resumetitle
 {
     font-family: 'Acme', sans-serif;
     font-size: 200%;
+    color: white;
+    text-align: center;
+    background-color: #0D1058
+    width: 15em;
+    padding: .75em;
+    border: black solid 2px;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
 }
 h3.owl
 {
@@ -118,6 +127,7 @@ img.self
     height: 30%;
     border-radius: 1em;
     border: solid black 2px;
+    display: inline-block;
 }
 img.scarhawk
 {
