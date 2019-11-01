@@ -148,6 +148,7 @@ img.scarhawk
 {
     width: 20%;
     height: 20%;
+    border: solid white .34em;
 }
 img.overwatch
 {
@@ -156,8 +157,10 @@ img.overwatch
 }
 iframe.video
 {
-    width: 90%;
-    height: 70%;
+    width: 160em;
+    height: 90em;
+    border-radius: 1em;
+    border: solid blue .167em;
 }
 ul.list
 {
