@@ -55,7 +55,7 @@ nav li a:hover
 nav li a.active
 {
     background-color: #272C8C;
-    border-radius: 2px;
+    border: white solid 1px;
 }
 h2.navtitle
 {
@@ -90,6 +90,8 @@ h2.about
     width: 20em;
     padding: .5em;
     border: black solid 1px;
+    margin-left: auto;
+    margin-right: auto;
 }
 h3.owl
 {
@@ -101,6 +103,8 @@ h3.owl
     width: 20em;
     padding: .5em;
     border: black solid 1px;
+    margin-left: auto;
+    margin-right: auto;
 }
 img.self
 {
