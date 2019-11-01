@@ -52,12 +52,13 @@ nav li a:hover
 nav li a.active
 {
     background-color: #272C8C;
+    border-radius: 2px;
 }
 h2.navtitle
 {
     margin: 0 auto;
     font-family: 'Yeon Sung', cursive;
-    font-size: 150%;
+    font-size: 80%;
     text-align: center;
     background-color: #4D5093;
     width: 10em;
@@ -80,4 +81,9 @@ h2.about
     width: 20em;
     padding: .5em;
     border: black solid 1px;
+}
+img.self
+{
+    width: 30%;
+    height: 30%;
 }
