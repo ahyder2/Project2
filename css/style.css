@@ -55,7 +55,15 @@ nav li a.active
 }
 h2.navtitle
 {
+    margin: 0 auto;
     font-family: 'Yeon Sung', cursive;
+    font-size: 150%;
+    text-align: center;
+    background-color: #4D5093;
+    width: 10em;
+    padding: .5em;
+    border: white solid 1px;
+    color: white;
 }
 h1.indextitle
 {
