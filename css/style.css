@@ -16,7 +16,10 @@ body#esportsbody
     margin-left: 10%;
     margin-right: 10%;
 }
-body
+body#resumebody
+{
+    width: 1800px;
+}
 nav
 {
     text-align: center;
