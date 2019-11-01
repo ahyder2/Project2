@@ -1,9 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Yeon+Sung&display=swap');
 body
 {
     background-color: #8585E0;
     text-align: center;
     font-family: Optima, sans-serif;
     font-size: 150%
+    width: 2000px;
+}
+body#esportsbody
+{
+    background-image: url(images/tdny.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 nav
 {
@@ -38,28 +47,4 @@ nav li a
 nav li a:hover
 {
     background-color: #272C8C;
-}
-/*
-h1
-{
-}
-h2
-{
-}
-h3
-{
-}
-p
-{
-}
-*/
-img
-{
-    width: 500px;
-    height: 500px;
-}
-iframe
-{
-    width: 400px;
-    height: 300px;
 }
