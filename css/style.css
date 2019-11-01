@@ -18,7 +18,7 @@ body#esportsbody
 }
 body#resumebody
 {
-    width: 1500px;
+    width: 1200px;
 }
 nav
 {
@@ -162,4 +162,5 @@ iframe.video
 ul.list
 {
     width: .083em;
+    display: inline-block;
 }
