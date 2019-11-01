@@ -17,7 +17,8 @@ nav ul
     padding: 0;
     border-radius: 2px;
     background-color: #4D5093;
-    width: 10px;
+    width: 300px;
+    overflow: hidden;
 }
 nav li
 {
