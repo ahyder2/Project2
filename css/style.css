@@ -161,6 +161,5 @@ iframe.video
 }
 ul.list
 {
-    width: .083em;
-    display: inline-block;
+    width: 5%;
 }
