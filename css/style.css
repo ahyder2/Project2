@@ -6,7 +6,6 @@ body
     text-align: center;
     font-family: 'Optima', sans-serif;
     font-size: 150%
-    width: 2000px;
 }
 body#esportsbody
 {
@@ -33,8 +32,7 @@ nav ul
 }
 nav li
 {
-    border-right: white solid 1px;
-    border-left: white solid 1px;
+    border: white solid 1px;
     display: inline;
 
 }
@@ -55,8 +53,23 @@ nav li a.active
 {
     background-color: #272C8C;
 }
+h2.navtitle
+{
+    font-family: 'Yeon Sung', cursive;
+}
 h1.indextitle
 {
     font-family: 'Luminari', fantasy;
-    font-size: 120%
+    font-size: 200%
+}
+h2.about
+{
+    font-family: 'Shadows Into Light' cursive;
+    font-size: 200%
+    color: white;
+    text-align: center;
+    background-color: #000464
+    width: 20em;
+    padding: .5em;
+    border: black solid 1px;
 }
